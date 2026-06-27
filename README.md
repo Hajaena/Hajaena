@@ -1,10 +1,10 @@
 ## Hajaina Fitahiana
 
-Fullstack Developer spécialisé dans la création d'applications web modernes avec focus sur l'optimisation de performance et l'accessibilité. Basé à Antananarivo, Madagascar.
+Fullstack Developer specialized in creating modern web applications with a focus on performance optimization and accessibility. Based in Antananarivo, Madagascar.
 
 ---
 
-### Stack Technique
+### Technical Stack
 
 **Frontend**
 
@@ -25,7 +25,7 @@ Fullstack Developer spécialisé dans la création d'applications web modernes a
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=00968820" alt="FastAPI" style="border-radius: 8px;">
 </div>
 
-**Bases de données**
+**Databases**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=33679120" alt="PostgreSQL" style="border-radius: 8px;">
@@ -33,7 +33,7 @@ Fullstack Developer spécialisé dans la création d'applications web modernes a
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A120" alt="MySQL" style="border-radius: 8px;">
 </div>
 
-**Outils & Plateforme**
+**Tools & Platform**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED20" alt="Docker" style="border-radius: 8px;">
@@ -41,7 +41,7 @@ Fullstack Developer spécialisé dans la création d'applications web modernes a
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&labelColor=FFFFFF20" alt="Unity" style="border-radius: 8px;">
 </div>
 
-**Standards & Qualité**
+**Standards & Quality**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/RGAA%204.1.2-4CAF50?style=for-the-badge&labelColor=4CAF5020" alt="RGAA" style="border-radius: 8px;">
@@ -50,14 +50,14 @@ Fullstack Developer spécialisé dans la création d'applications web modernes a
 
 ---
 
-### Hackathons & Compétitions
+### Hackathons & Competitions
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/ESTI%20Hackathon-July%202025-FF6B6B?style=for-the-badge&labelColor=FF6B6B20" alt="ESTI Hackathon" style="border-radius: 8px;">
   <img src="https://img.shields.io/badge/HIU%20Hackathon-April%202025-4ECDC4?style=for-the-badge&labelColor=4ECDC420" alt="HIU Hackathon" style="border-radius: 8px;">
 </div>
 
-Participation active dans les compétitions de développement avec focus sur l'innovation et la résolution de problèmes complexes.
+Active participation in development competitions with focus on innovation and solving complex problems.
 
 ---
 
@@ -70,7 +70,7 @@ Participation active dans les compétitions de développement avec focus sur l'i
 
 ---
 
-### Statistiques GitHub
+### GitHub Statistics
 
 <a href="https://github.com/Hajaena">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Hajaena&show_icons=true&theme=dark&hide_border=true" style="border-radius: 12px; backdrop-filter: blur(10px);" />
@@ -78,7 +78,3 @@ Participation active dans les compétitions de développement avec focus sur l'i
 <a href="https://github.com/Hajaena">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajaena&layout=donut&theme=dark&hide_border=true&langs_count=8" style="border-radius: 12px; backdrop-filter: blur(10px);" />
 </a>
-
----
-
-**Profil GitHub:** https://github.com/Hajaena
