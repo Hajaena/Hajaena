@@ -1,178 +1,51 @@
-# Hajaina - Développeur Frontend & Full-Stack
+## Hajaina Fitahiana
 
-## À propos
+Fullstack Developer spécialisé dans la création d'applications web modernes avec focus sur l'optimisation de performance et l'accessibilité. Basé à Antananarivo, Madagascar.
 
-Développeur Frontend passionné basé à Antananarivo, spécialisé dans la création d'applications web robustes et accessibles. Actuellement en charge de la modernisation d'une plateforme ERP académique avec React, TypeScript et Material UI. Je suis engagé dans les bonnes pratiques de développement, l'accessibilité WCAG et la documentation de qualité.
+### Compétences
 
-## Compétences Techniques
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- React 19 / TypeScript / TSX
-- Material UI (MUI) - composants personnalisés et theming avancé
-- Tailwind CSS - responsive design et utility-first
-- Vite - build tool performant
-- React Router - navigation et routing avancé
-- Recharts - visualisation de données et graphiques
-- Axios - client HTTP avec intercepteurs et JWT auth
-- React Hooks - custom hooks et state management
-- React Native / Expo - développement mobile cross-platform
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-### Backend & Bases de données
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- Django / Django REST Framework
-- Node.js / Express (exploration)
-- MySQL / MariaDB - conception et optimisation
-- PostgreSQL - expérience étendue
-- Python 3.9+ - scripts et automation
-- RESTful API design
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+![RGAA](https://img.shields.io/badge/RGAA%204.1.2-4CAF50?style=flat&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG%202.1-4CAF50?style=flat&logoColor=white)
 
-### Outils & DevOps
+### Participations Hackathon
 
-- Git / GitHub - workflow professionnel et collaboration
-- Docker - containerisation et orchestration
-- VS Code - environnement de développement optimisé
-- Bash / Terminal - CLI et automation
-- npm / yarn - gestion des dépendances
-- ESLint / Prettier - code quality
+![ESTI Hackathon 2025](https://img.shields.io/badge/ESTI%20Hackathon-July%202025-FF6B6B?style=flat)
+![HIU Hackathon 2025](https://img.shields.io/badge/HIU%20Hackathon-April%202025-4ECDC4?style=flat)
 
-### Qualité & Accessibilité
+### Formation
 
-- RGAA 4.1.2 - audits et conformité d'accessibilité
-- WCAG 2.1 - normes de web accessibility
-- Jest / Vitest - testing framework
-- Accessibility testing - manual et automated
+![DevOps](https://img.shields.io/badge/DevOps%20Training-Docker%20Certified-0078D4?style=flat&logo=docker&logoColor=white)
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship%20Training-MVola%202023-FFA500?style=flat)
 
-### Design & Documentation
+### Statistiques
 
-- UX/UI Design basics - wireframing et prototyping
-- Figma - design collaboration
-- Markdown - documentation technique
-- UML - diagrammes (use case, class, sequence)
-- Microsoft Word - rapports formels et documentation
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajaena&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-## Expériences Professionnelles
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajaena&layout=compact&theme=dark&hide_border=true)
 
-### ERP ESTI Frontend - Développeur Frontend
+### Connecté sur
 
-Développement d'une application de gestion académique avec React et TypeScript.
-
-Réalisations principales:
-- Construction d'un dashboard analytique avec visualisations de données temps réel
-- Implémentation d'un système d'onboarding interactif personnalisé
-- Développement d'un module de finance export avec 3 endpoints d'export CSV
-- Intégration d'authentification JWT avec token refresh automatique
-- Performance optimization et lazy loading des données
-- Accessibilité RGAA 4.1.2 - audit systématique des pages principales
-- Configuration MySQL locale et integration Django backend
-
-### Apex - Full Stack Laravel + React
-
-Système de gestion de location de voitures avec architecture moderne.
-
-Réalisations:
-- Migration complète .jsx vers .tsx avec strict typing
-- Centralized API client avec generics TypeScript
-- Feature-based module organization (auth, bookings, payments)
-- Plan d'Assurance Qualité (PAQ) avec diagrammes UML
-- CI/CD pipeline GitHub Actions
-- Conventional commits et semantic versioning
-
-### SIVANA / Reachest - React Native / Expo
-
-Application mobile de gestion documentaire avec OCR intégré.
-
-Réalisations:
-- Architecture complète React Native avec Expo SDK 56
-- Catégorisation intelligente et gestion d'expiration
-- UI/UX optimisée pour mobile avec safe areas
-- Résolution de compatibilité SDK et dependencies
-
-### GestionStock - C# / .NET
-
-Application WinForms de gestion de stock avec Entity Framework Core.
-
-Réalisations:
-- Architecture MVVM avec binding deux-sens
-- Integration MySQL pour persistence
-- Rapports et analytics intégrés
-
-## Projets Notables
-
-### ERP ESTI Frontend
-
-Stack: React 19, TypeScript, Material UI, Django REST Framework, MySQL
-
-Une plateforme complète de gestion académique avec:
-- Dashboard multi-niveaux pour direction des études
-- Gestion d'étudiants avec passage de classe et redoublement
-- Module de finance avec export multi-format
-- Système d'authentification JWT sécurisé
-- Audit d'accessibilité RGAA 4.1.2 multipage
-
-Lien: https://github.com/TRIA-INC/erp-esti-frontend
-
-### ERP ESTI Backend
-
-Stack: Django 4.2, Django REST Framework, MySQL, PostgreSQL
-
-API robuste avec:
-- Models académiques complexes (Inscriptions, Promotions, Classes)
-- Authentification JWT et token refresh
-- Gestion des exports financiers
-- Intégration Google Sheets et Brevo SMTP
-
-Lien: https://github.com/TRIA-INC/erp-esti-backend
-
-### Cetotalmichelet Accessibility Audit
-
-Stack: RGAA 4.1.2, Magento 2, HTML/CSS
-
-Audit systématique d'accessibilité couvrant:
-- Page de recherche produits
-- Fiche produit détaillée
-- Panier et checkout
-- Compte client
-- Pages de paiement
-
-Production de rapports d'audit en markdown avec non-conformités détaillées.
-
-## Langues
-
-Français - Courant (langue de travail principale)
-English - Intermédiaire (communication technique)
-Malagasy - Natif
-
-## Intérêts
-
-Accessibilité web et conformité WCAG
-Architecture et design patterns
-Optimisation de performance
-Documentation technique de qualité
-Contributions open source
-Mobile development avec Expo
-Vinyl skin design et customization MacBook
-
-## Certifications & Formation
-
-Ingénieur en Informatique - Études approfondies en développement logiciel
-Spécialisation ERP et gestion académique
-Certifications RGAA 4.1.2 et bonnes pratiques d'accessibilité
-
----
-
-## Statistiques GitHub
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hajaina&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/hajaina)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajaina&layout=compact&theme=dark&hide_border=true)](https://github.com/hajaina)
-
-## Connectez-vous
-
-GitHub: https://github.com/hajaina
-Email: hajaina@example.com
-Location: Antananarivo, Madagascar
-
----
-
-Dernier update: Juin 2026
+![GitHub](https://img.shields.io/badge/GitHub-Hajaena-181717?style=flat&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajaina%20Fitahiana-0077B5?style=flat&logo=linkedin)
+![Email](https://img.shields.io/badge/Email-hajaina.andriamahefaniaina%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
