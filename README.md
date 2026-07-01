@@ -106,9 +106,21 @@ Active participation in development competitions with focus on innovation and so
 
 ### GitHub Statistics
 
-<a href="https://github.com/Hajaena">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Hajaena&show_icons=true&theme=dark&hide_border=true" style="border-radius: 12px; backdrop-filter: blur(10px);" />
-</a>
-<a href="https://github.com/Hajaena">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajaena&layout=donut&theme=dark&hide_border=true&langs_count=8" style="border-radius: 12px; backdrop-filter: blur(10px);" />
-</a>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hajaena&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" style="border-radius: 12px;" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajaena&layout=donut&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" style="border-radius: 12px;" />
+
+<img src="https://raw.githubusercontent.com/Hajaena/Hajaena/main/profile/streak.svg" alt="GitHub Streak" style="border-radius: 12px;" />
+
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Hajaena/Hajaena/output/github-contribution-grid-snake.gif" style="border-radius: 12px;" />
+
+</div>
