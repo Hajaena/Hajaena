@@ -37,18 +37,12 @@ Développeur fullstack spécialisé dans la création de sites et d'applications
 
 ## Hackathons & Certifications
 
-🏆 ESTI Hackathon — Juillet 2025 &nbsp;·&nbsp; 🏆 HIU Hackathon — Avril 2025
-🎖️ Docker Certified &nbsp;·&nbsp; 🎖️ MVola Entrepreneurship Training
+ESTI Hackathon — Juillet 2025 &nbsp;·&nbsp; HIU Hackathon — Avril 2025
+Docker Certified &nbsp;·&nbsp;
 
 <br/>
 
 ## Statistiques GitHub
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajaena&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=E9ECF2&text_color=8B95A8" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
