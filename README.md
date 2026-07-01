@@ -35,48 +35,6 @@ Développeur fullstack spécialisé dans la création de sites et d'applications
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Machine Learning / IA**
-`TensorFlow` `Keras` `PyTorch` `NLP` `Hugging Face` `LLM`
-
-**Back-end / BaaS**
-`Node.js` `Express` `Django` `Java` `Python` `Supabase` `FastAPI`
-
-</td>
-<td valign="top" width="50%">
-
-**Langages & Bases**
-`JavaScript (ES6+)` `C` `C++` `C#`
-
-**Docker & DevOps**
-`Dockerfile` `Volumes` `Compose`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Formation
-
-| | |
-|---|---|
-| **MMI Université d'Ankatso** — 2023–2024 | Mention Mathématiques & Informatique — algorithmique, C/C++/JS, algèbre linéaire |
-| **CPE Behoririka** — 2023 | Baccalauréat Série C — Mathématiques et Physique |
-
-## Langues
-
-| Langue | Niveau |
-|---|---|
-| 🇲🇬 Malagasy | Langue maternelle |
-| 🇫🇷 Français | Courant / Professionnel |
-| 🇬🇧 Anglais | Intermédiaire |
-
-<br/>
-
 ## Hackathons & Certifications
 
 🏆 ESTI Hackathon — Juillet 2025 &nbsp;·&nbsp; 🏆 HIU Hackathon — Avril 2025
@@ -105,9 +63,9 @@ Développeur fullstack spécialisé dans la création de sites et d'applications
 
 <div align="center">
 
-📧 [hajaina.andriamahefaniaina@gmail.com](mailto:hajaina.andriamahefaniaina@gmail.com) &nbsp;·&nbsp;
-📱 +261 34 77 42 529 &nbsp;·&nbsp;
-📍 III G 39 H Antohomadinika, Antananarivo
+ [hajaina.andriamahefaniaina@gmail.com](mailto:hajaina.andriamahefaniaina@gmail.com) &nbsp;·&nbsp;
+ +261 34 77 42 529 &nbsp;·&nbsp;
+ III G 39 H Antohomadinika, Antananarivo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E8EF7,50:17407A,100:0A0D12&height=100&section=footer" width="100%"/>
 
