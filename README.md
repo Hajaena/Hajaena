@@ -46,7 +46,6 @@ Développeur fullstack spécialisé dans la création de sites et d'applications
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Hajaena&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&icon_color=3E8EF7&title_color=E9ECF2&text_color=8B95A8" alt="GitHub Stats" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajaena&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=E9ECF2&text_color=8B95A8" alt="Top Languages" />
 
 </div>
