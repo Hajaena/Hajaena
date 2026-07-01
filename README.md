@@ -112,14 +112,3 @@ Développeur fullstack spécialisé dans la création de sites et d'applications
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E8EF7,50:17407A,100:0A0D12&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-### GitHub Statistics
-
-<a href="https://github.com/Hajaena">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Hajaena&show_icons=true&theme=dark&hide_border=true" style="border-radius: 12px; backdrop-filter: blur(10px);" />
-</a>
-<a href="https://github.com/Hajaena">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajaena&layout=donut&theme=dark&hide_border=true&langs_count=8" style="border-radius: 12px; backdrop-filter: blur(10px);" />
-</a>
