@@ -1,0 +1,66 @@
+<svg width="820" height="740" viewBox="0 0 820 740" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3E8EF7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3E8EF7" stop-opacity="0.25"/>
+    </linearGradient>
+    <style>
+      .org   { font: 600 13px 'JetBrains Mono', Consolas, monospace; fill: #3E8EF7; letter-spacing: 0.04em; text-transform: uppercase; }
+      .date  { font: 400 12px 'JetBrains Mono', Consolas, monospace; fill: #5B6478; }
+      .title { font: 600 19px Georgia, 'Times New Roman', serif; fill: #E9ECF2; }
+      .desc  { font: 400 13.5px Helvetica, Arial, sans-serif; fill: #8B95A8; }
+      .tag   { font: 400 11px 'JetBrains Mono', Consolas, monospace; fill: #5B6478; }
+    </style>
+  </defs>
+
+  <!-- Background card -->
+  <rect x="0" y="0" width="820" height="740" rx="16" fill="#0A0D12"/>
+  <rect x="0.5" y="0.5" width="819" height="739" rx="15.5" fill="none" stroke="#202838"/>
+
+  <!-- Header -->
+  <text x="40" y="46" class="date" fill="#3E8EF7">18°55'S 47°31'E — PARCOURS PROFESSIONNEL</text>
+  <line x1="40" y1="62" x2="780" y2="62" stroke="#202838" stroke-width="1"/>
+
+  <!-- Route line -->
+  <line x1="46" y1="100" x2="46" y2="680" stroke="url(#lineFade)" stroke-width="1.5"/>
+
+  <!-- Waypoint 1 : Apex Group -->
+  <circle cx="46" cy="110" r="6" fill="#0A0D12" stroke="#3E8EF7" stroke-width="2"/>
+  <text x="76" y="106" class="org">Apex Group</text>
+  <text x="780" y="106" text-anchor="end" class="date">AVR — JUIN 2026</text>
+  <text x="76" y="132" class="title">Développeur Full-Stack</text>
+  <text x="76" y="156" class="desc">Plateforme de location de véhicules · suivi de flotte en temps réel</text>
+  <text x="76" y="175" class="desc">Backend Java (API REST, tarification) · Frontend TS connecté en temps réel</text>
+  <text x="76" y="200" class="tag">JAVA · TYPESCRIPT · REST</text>
+
+  <!-- Waypoint 2 : TRIA -->
+  <circle cx="46" cy="250" r="6" fill="#0A0D12" stroke="#3E8EF7" stroke-width="2"/>
+  <text x="76" y="246" class="org">TRIA — CRM Institutionnel</text>
+  <text x="780" y="246" text-anchor="end" class="date">FÉV — JUIN 2026</text>
+  <text x="76" y="272" class="title">Développeur Front-End</text>
+  <text x="76" y="296" class="desc">Plateforme de pilotage stratégique · dashboard multi-départements</text>
+  <text x="76" y="315" class="desc">Interface responsive pour ERP académique</text>
+  <text x="76" y="340" class="tag">REACT · TYPESCRIPT · MATERIAL UI</text>
+
+  <!-- Waypoint 3 : SERAI -->
+  <circle cx="46" cy="390" r="6" fill="#0A0D12" stroke="#3E8EF7" stroke-width="2"/>
+  <text x="76" y="386" class="org">SERAI — NLP</text>
+  <text x="780" y="386" text-anchor="end" class="date">SEPTEMBRE 2025</text>
+  <text x="76" y="412" class="title">Traitement Automatique du Langage Naturel</text>
+  <text x="76" y="436" class="desc">IA de traduction entre malgache officiel et variantes régionales</text>
+  <text x="76" y="455" class="desc">(Betsimisaraka, Sakalava, Tsimihety) · fine-tuning de LLM</text>
+  <text x="76" y="480" class="tag">PYTHON · LLM · FINE-TUNING</text>
+
+  <!-- Waypoint 4 : Code Alpha -->
+  <circle cx="46" cy="530" r="6" fill="#0A0D12" stroke="#3E8EF7" stroke-width="2"/>
+  <text x="76" y="526" class="org">Code Alpha</text>
+  <text x="780" y="526" text-anchor="end" class="date">JANVIER 2025</text>
+  <text x="76" y="552" class="title">Machine Learning — Détection d'objets</text>
+  <text x="76" y="576" class="desc">Modèle YOLOv5 en Python · précision de détection améliorée à 86%</text>
+  <text x="76" y="601" class="tag">PYTHON · YOLOV5 · COMPUTER VISION</text>
+
+  <!-- Endpoint marker -->
+  <circle cx="46" cy="670" r="4" fill="#3E8EF7"/>
+  <text x="76" y="675" class="date">EN ROUTE VERS LA SUITE →</text>
+
+</svg>
